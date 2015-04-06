@@ -35,3 +35,7 @@ Steps to find velocity for rectangular cross section using power law -
 Thanks!!!
 Please do go through raw files and create an issue if any bug is found .
 Contact us on tiwari.ayush2412@gmail.com or harshit.chopra.19@gmail.com for any questions
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/druther/matlab-integration-of-current-meter-measurement/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
